@@ -49,7 +49,10 @@ public class User {
     )
     private Set<Interest> interests;
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> 244baa639e5dee559808362d1c1f96d113340e9a
     public enum Role {
         STUDENT, PROFESSOR, ADMIN
     }

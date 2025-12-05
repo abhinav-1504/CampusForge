@@ -1,0 +1,23 @@
+# ===== Node / React frontend =====
+frontend/node_modules/
+
+# ===== Java backend =====
+
+backend/.env
+backend/.idea/
+backend/target/
+
+
+
+
+# ===== Common =====
+*.log
+.DS_Store
+.env
+.gitignore
+migration_add_project_fields.sql
+.gitignore
+backend/src/main/resources/application.properties
+migration_add_teammate_fields.sql
+
+backend/src/test/
